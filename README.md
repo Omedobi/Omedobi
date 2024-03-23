@@ -1,3 +1,4 @@
+![](https://github.com/Omedobi/Omedobi/blob/26daf52af7bcc117e5cccfa0e352a0e8e3eba54f/img/data-science.jpg)
 
 # Erder Omedobi
 ### Environmental Engineer | Data Science Enthusiast 
