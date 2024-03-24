@@ -17,9 +17,11 @@ Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Science enthu
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Omedobi)
 
 ## Courses
-[![Static Badge](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)](https://coursera.org/share/caf084407dca96548b8dc17ebdbc401e)
+[![Static Badge](https://img.shields.io/badge/Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
+](https://www.coursera.org/account/accomplishments/specialization/certificate/KU8UXKH7DKJF)
 
 ## Credly Badges
+[<img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/>](https://www.credly.com/badges/0e625b61-3ddc-4a91-8e15-2e1beaa97651/public_url)
 [<img src='https://images.credly.com/size/220x220/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png' width="75" height="75"/>](https://www.credly.com/badges/32978c6e-1543-4d71-844f-77942c1a8932/public_url)
 [<img src='https://images.credly.com/size/220x220/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png' width="75" height="75"/>](https://www.credly.com/badges/2afc9b97-cc33-4bf8-a987-4d7fe0a7d3a6)
 [<img src='https://images.credly.com/size/220x220/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png' width="75" height="75"/>](https://www.credly.com/badges/caf4d2f4-f9ac-44fd-bc5b-81116a6cb6e2)
