@@ -1,3 +1,8 @@
+<div align="center">
+
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=Omedobi&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/Omedobi?color=971901&logo=githubb&label=FOLLOWERS"/>
+
 ![](https://github.com/Omedobi/Omedobi/blob/26daf52af7bcc117e5cccfa0e352a0e8e3eba54f/img/data-science.jpg)
 
 # Erder Omedobi
