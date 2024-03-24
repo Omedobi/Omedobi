@@ -17,9 +17,10 @@ Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Science enthu
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Omedobi)
 
 ## Courses
-[![Static Badge](https://img.shields.io/badge/Machine%20Learning%20with%20Python-%20?style=flat&logo=coursera&color=blue)
+[![Static Badge](https://img.shields.io/badge/Machine%20Learning%20with-Python-%20?style=flat&logo=coursera&color=blue)
 ](https://www.coursera.org/account/accomplishments/specialization/certificate/KU8UXKH7DKJF)
-
+[![Static Badge](https://img.shields.io/badge/Data%20Visualization%20with-Python-%20?style=flat&logo=coursera&color=blue)
+](https://www.coursera.org/account/accomplishments/certificate/CMXG3FZC6776)
 [![Static Badge](https://img.shields.io/badge/Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
 ](https://www.coursera.org/account/accomplishments/certificate/6CMFAZYLRSXK)
 
