@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Science enthu
 ](https://www.coursera.org/account/accomplishments/specialization/certificate/KU8UXKH7DKJF) 
 ## Credly Badges
 [<img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/>](https://www.credly.com/badges/0e625b61-3ddc-4a91-8e15-2e1beaa97651/public_url)
+[<img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/>](https://www.credly.com/badges/0e625b61-3ddc-4a91-8e15-2e1beaa97651)
 [<img src='https://images.credly.com/size/220x220/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png' width="75" height="75"/>](https://www.credly.com/badges/32978c6e-1543-4d71-844f-77942c1a8932/public_url)
 [<img src='https://images.credly.com/size/220x220/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png' width="75" height="75"/>](https://www.credly.com/badges/2afc9b97-cc33-4bf8-a987-4d7fe0a7d3a6)
 [<img src='https://images.credly.com/size/220x220/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png' width="75" height="75"/>](https://www.credly.com/badges/caf4d2f4-f9ac-44fd-bc5b-81116a6cb6e2)
@@ -38,7 +39,6 @@ Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Science enthu
 [<img src='https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png' width="75" height="75"/>](https://www.credly.com/badges/0eba8f82-d389-4bc2-9564-7030c1c0ba34)
 [<img src='https://images.credly.com/size/220x220/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png' width="75" height="75"/>](https://www.credly.com/badges/7a10e0bf-b4a6-41dd-b4e9-0f48e81d5b08)
 [<img src='https://images.credly.com/size/220x220/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png' width="75" height="75"/>](https://www.credly.com/badges/49d781f1-1884-4cdd-8090-7e9478c7d5d1)
-[<img src='https://images.credly.com/size/220x220/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/IBM Data Science Professional Cerificate' width="75" height="75"/>](https://www.credly.com/badges/0e625b61-3ddc-4a91-8e15-2e1beaa97651)
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Omedobi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omedobi&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omedobi&show_icons=true&theme=dark&utcOffset=8)](https://github.com/Omedobi)
