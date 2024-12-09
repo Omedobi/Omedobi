@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Scientist. My
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omedobi&theme=dark&hide_border=true&repo=Seattle-weather-analysis-and-forcast)](https://github.com/Omedobi/Seattle-weather-analysis-and-forcast)
 
 ## IDE
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Roboflow-FYH83B?style=for-the-badge&logo=roboflow&logoColor=red)![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-FAC898?style=for-the-badge&logo=jupyter&logoColor=Orange)](https://github.com/Omedobi)
 
 ## Skills
