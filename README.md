@@ -6,7 +6,7 @@
 ![](https://github.com/Omedobi/Omedobi/blob/26daf52af7bcc117e5cccfa0e352a0e8e3eba54f/img/data-science.jpg)
 
 # Erder Omedobi
-### Environmental Engineer | Data Scientist  
+### Environmental Engineer | Data Scientist 
 Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Scientist. My journey revolves around utilizing data to unravel insights and tackle real-world challenges. I am constantly expanding my skills and knowledge in the field of data science. Join me as I explore the fascinating world of data science through my project portfolio.
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omedobi&theme=dark)](https://github.com/Omedobi)
 
