@@ -58,23 +58,29 @@ Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Scientist ded
 ---
 
 ## GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Omedobi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Omedobi)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omedobi&layout=compact&theme=dark&hide_border=true)](https://github.com/Omedobi)
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Omedobi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omedobi&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omedobi&show_icons=true&theme=dark&utcOffset=8)](https://github.com/Omedobi)
 
 ---
 
 ## GitHub Streaks
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omedobi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikennaanyawuike@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anyawuike-ikenna)
-
-![Contribution Snake](https://github.com/Omedobi/Omedobi/blob/0853957d0b6382d72b7006c1c16c223e25365dbf/assets/github-contribution-grid-snake.svg)
+## Tropie Stats
+![](https://github-profile-trophy.vercel.app/?username=Omedobi&theme=dark)
 
 ---
+
+## Portfolio Website
+[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://omedobi-portfolio.vercel.app)
+
+----
+
+## Contact
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikennaanyawuike@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anyawuike-ikenna)
+
+---
+
+![Snake animation](https://github.com/Omedobi/Omedobi/blob/0853957d0b6382d72b7006c1c16c223e25365dbf/assets/github-contribution-grid-snake.svg)
+
