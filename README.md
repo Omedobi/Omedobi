@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Scientist ded
 ---
 
 ## GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omedobi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Omedobi)](https://git.io/streak-stats)
 
 ---
 
