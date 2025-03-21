@@ -6,7 +6,7 @@
 ![Data Science Banner](https://github.com/Omedobi/Omedobi/blob/26daf52af7bcc117e5cccfa0e352a0e8e3eba54f/img/data-science.jpg)
 
 # Erder Omedobi
-### Environmental Engineer | Data Scientist 
+### Environmental Engineer | Data Scientist | Machine Learning Engineer
 
 Welcome to my GitHub profile! I'm Erder Omedobi, a passionate Data Scientist dedicated to leveraging data for uncovering insights and solving real-world problems. Join me on my journey of exploring data science through innovative projects.
 
